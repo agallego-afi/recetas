@@ -1,6 +1,7 @@
 Ingredientes:
  * Patatas
  * Huevos
+ * Chilis
  * Aceite
  * Sal
 
