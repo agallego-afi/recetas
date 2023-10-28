@@ -4,6 +4,7 @@ Ingredientes:
  * Aceite
  * Vinagre
  * Sal
+ * Chis2
 
 Instrucciones:
  * Mezclar todo
